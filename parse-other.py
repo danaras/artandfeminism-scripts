@@ -105,5 +105,6 @@ class ParseOther:
 
 
 if __name__ == "__main__":
-	parsing = ParseOther("All new A+F articles needing review 2018 - NEW other copy.csv", "artValues.csv")
+	inputfile = "All new A+F articles needing review 2018 - NEW other copy.csv"
+	parsing = ParseOther(inputfile, "artValues.csv")
 	parsing.parseInputFile()

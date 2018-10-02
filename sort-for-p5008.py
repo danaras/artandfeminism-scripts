@@ -3,7 +3,7 @@ import csv
 inputFile = 'all-categories-QS.csv'
 qidColumnNumber = 0
 occupationQIDColumnNumber = 2
-listFile = 'red-green-list.csv'
+listFile = 'Resources/red-green-list.csv'
 outputFile_green = 'green-' + inputFile
 outputFile_red = 'red-' + inputFile
 outputFile_grey = 'grey-' + inputFile
