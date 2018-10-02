@@ -66,4 +66,4 @@ Instructions:
 		Open Terminal and navigate to the “artandfeminism-scripts-master” folder. “cd” is the command for changing
 		directory. Type “cd “ then drag the folder icon onto Terminal.
 		Type “python parse-other.py” and hit enter
-		The script will spit out a bunch of text, and create a bunch of sorted CSV files
+		The script will have no console logs, and will create a bunch of sorted CSV files
