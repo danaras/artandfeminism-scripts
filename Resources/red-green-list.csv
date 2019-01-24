@@ -1,0 +1,399 @@
+count,qid,occupation,keep?,description
+1256,Q1028181,painter,y,artist who practices painting
+1155,Q483501,artist,y,"person who creates, practises and/or demonstrates any art"
+463,Q33231,photographer,y,person who takes photographs
+326,Q1281618,sculptor,y,artist specializing in sculpture
+262,Q36180,writer,y,person who uses written words to communicate ideas and to produce works of literature
+170,Q49757,poet,y,person who writes and publishes poetry
+148,Q42973,architect,y,"person trained to plan and design buildings, and oversee their construction"
+141,Q33999,actor,y,"person who acts in a dramatic or comic production and works in film, television, theatre, or radio"
+137,Q3391743,visual artist,y,artist involved with the visual arts
+125,Q1930187,journalist,n,"person who collects, writes and distributes news and other information"
+107,Q2526255,film director,y,occupation of a person who directs a film
+87,Q82955,politician,n,"person involved in politics, person who holds or seeks positions in government"
+70,Q201788,historian,n,person who studies and writes about the past
+64,Q18074503,installation artist,y,artist specialized in installation art
+51,Q177220,singer,y,person singing for a listening audience
+51,Q18216771,video artist,y,person who creates video art
+49,Q188094,economist,n,professional in the social science discipline of economics
+40,Q6934789,multimedia artist,y,
+38,Q1114448,cartoonist,y,visual artist who makes cartoons
+38,Q644687,illustrator,y,narrative artist who makes images for printed and electronic products
+36,Q15253558,activist,y,"person working with promoting or impeding, or causing social, political, economic, or environmental change"
+36,Q715301,comics artist,y,people who creates comics
+35,Q1792450,art historian,y,humanist who is engaged in history of art
+35,Q7541856,ceramist,y,occupation (ceramic)
+34,Q6625963,novelist,y,author or writer of novel
+33,Q37226,teacher,n,"person who helps others to acquire knowledge, competences or values"
+33,Q674426,curator,y,content specialist charged with an institution's collections and involved with the interpretation of heritage material
+32,Q4610556,model,n,"person employed to display, advertise and promote products, or to serve as a visual aid"
+30,Q11569986,printmaker,y,person who etches or engraves to produce prints
+29,Q36834,composer,y,"person who creates music, either by musical notation or oral tradition"
+28,Q10774753,performance artist,y,person who practices performance art
+28,Q3400050,potter,y,someone who makes pottery
+28,Q482980,author,y,creator of an original spoken or written work
+28,Q639669,musician,y,person who performs or composes music
+25,Q2490358,choreographer,y,person who creates choreographies
+25,Q3501317,fashion designer,y,profession
+25,Q5322166,designer,y,person who designs
+25,Q976015,basket weaver,y,a person who makes baskets
+22,Q170790,mathematician,n,person with an extensive knowledge of mathematics
+22,Q627325,graphic designer,y,"person who who assembles images, typography or motion graphics to create a piece of design"
+21,Q40348,lawyer,n,legal professional who helps clients and represents them in a court of law
+21,Q4773904,anthropologist,n,person with an extensive knowledge of anthropology
+20,Q1622272,university teacher,n,person teaching at a university
+19,Q121594,professor,n,academic rank at universities and other post-secondary education and research institutions in most countries
+19,Q593644,chemist,n,scientist trained in the study of chemistry
+18,Q4964182,philosopher,n,person with an extensive knowledge of philosophy
+17,Q81096,engineer,n,professional practitioner of engineering
+16,Q39631,physician,n,professional who practices medicine
+16,Q28389,screenwriter,y,"writer who writes for TV, films, comics and games"
+16,Q322170,suffragette,y,female member of the women's right to vote movement
+15,Q82594,computer scientist,n,scientist specializing in computer science
+15,Q34074720,feminist,y,one who advocates for the civil rights of women
+14,Q2306091,sociologist,n,scientist working in sociology
+14,Q901,scientist,n,person that studies a science
+14,Q2865798,glass artist,y,one who practises glass arts
+13,Q182436,librarian,n,"person who works professionally in a library, and is usually trained in librarianship"
+13,Q1231865,pedagogue,n,person working in the academic field of pedagogy
+13,Q10694573,textile artist,y,"person who creates art objects using plant, animal, or synthetic fibers"
+13,Q10732476,art collector,y,person who collects art
+12,Q169470,physicist,n,scientist who does research in physics
+12,Q1414443,film maker,y,creator of a cinematic work
+12,Q486748,pianist,y,musician who plays the piano
+11,Q210167,video game developer,y,"individual, group or corporation that develops a video game"
+11,Q2815948,landscape architect,y,"person involved in the planning, design and sometimes direction of a landscape, garden, or distinct space"
+10,Q16631371,academic,n,member of a university or research centre
+10,Q3148760,botanical illustrator,y,"person who paints, sketches or otherwise illustrates botanical subjects"
+10,Q329439,engraver,y,person with the profession of engraving
+10,Q780596,curator,y,person in charge of organising an exhibition
+9,Q1650915,researcher,n,professional who engages in research
+9,Q15627169,trade unionist,n,person involved in trade unions
+9,Q212980,psychologist,n,"professional who evaluates, diagnoses, treats, and studies behavior and mental processes"
+9,Q2374149,botanist,n,person who practices botany
+9,Q3621491,archaeologist,n,person studying human activity in the past
+9,Q43845,businessperson,n,person involving in activities for the purpose of generating revenue
+9,Q864503,biologist,n,scientist who studies living organisms and their relationship to their environment
+9,Q16947657,lithographer,y,person who primarily uses lithography for making prints
+9,Q3374326,muralist,y,artist whose work consists primarily of painting murals
+9,Q437512,weaver,y,person who weaves fabrics
+9,Q7042855,film editor,y,"person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture"
+8,Q2066131,athlete,n,person who participates regularly in a sport
+8,Q10800557,film actor,y,actor who appears in films or movies
+8,Q15296811,drawer,y,person who makes drawings (artist/cartoonist/drafter/illustrator)
+8,Q2133309,interior designer,y,"person who designs the interior decoration of a room or building; who plans, researches, coordinates, and manages such projects"
+8,Q214917,playwright,y,person who writes plays
+7,Q186360,nurse,n,type of health care provider
+7,Q1229025,typographer,y,"typography worker; for the designer of fonts and type, see Q354034"
+7,Q17098559,penciller,y,"artist who works in the creation of comic books, graphic novels, and similar visual art forms"
+7,Q2259451,stage actor,y,actor who performs live before an in-person audience
+7,Q354034,type designer,y,person who designs typefaces
+7,Q488205,singer-songwriter,y,"musician who writes, composes and sings"
+7,Q5716684,dancer,y,person who dances
+7,Q7016454,new media artist,y,artist who primarily uses (new) media art in his/her work
+6,Q28989,graf,n,historical title of the German nobility
+6,Q11063,astronomer,n,scientist who studies celestial bodies
+6,Q130857,disc jockey,n,person who plays recorded music for an audience
+6,Q13365117,handball player,n,sportsperson who plays one of the different types of handball
+6,Q3499072,chef,n,person that directs preparation of meals
+6,Q14915627,musicologist,y,occupation
+6,Q158852,conductor,y,person who directs a musical group during a performance
+6,Q19850998,sound artist,y,artist who uses sound as a medium
+6,Q2252262,rapper,y,artist who speaks rhymes in a rhythm over music
+6,Q3455803,director,y,director of a creative work
+5,Q11499147,political activist,y,activist wanting political change
+5,Q333634,translator,n,person who translates text from one language to another
+5,Q105186,pharmacist,n,healthcare professional who practices in pharmacy
+5,Q13219587,figure skater,n,sportsperson who takes part in figure skating tournaments
+5,Q14467526,linguist,n,expert in human languages
+5,Q937857,association football player,n,person who plays association football (soccer)
+5,Q11774202,essayist,y,person who writes essays
+5,Q14915751,prostitute,y,person who has sex for money
+5,Q15095148,graffiti artist,y,artist who specializes in graffiti
+5,Q1607826,editor,y,person who edits texts or publications
+5,Q17505902,watercolourist,y,artist who works in watercolours
+5,Q18611810,textile designer,y,"person who designs printed, woven, or knitted textiles for production"
+5,Q1861368,tattoo artist,y,individual who applies permanent decorative tattoos
+5,Q1925963,graphic artist,y,artist who makes lines on paper through various print techniques
+5,Q21477194,contemporary artist,y,
+5,Q27532437,suffrage activist,y,member of the women's right to vote movement
+5,Q3068305,salonnière,y,person who organizes or hosts a salon
+5,Q4164507,art critic,y,person who specializes in evaluating art
+5,Q46984315,quilter,y,person who practises quilting
+5,Q8246794,blogger,y,person who writes a blog
+5,Q957729,photojournalist,y,journalism occupation
+4,Q1350189,egyptologist,n,person who studies Ancient Egypt and its antiquities
+4,Q131524,entrepreneur,n,"individual who organizes and operates a business, taking on financial risk to do so"
+4,Q13381376,weightlifter,n,sportsperson who competes in weightlifting tournaments
+4,Q18524075,mining engineer,n,specialist in mining engineering
+4,Q18844279,marine engineer,n,occupation
+4,Q2095549,aviator,n,person actively involved in flying an aircraft
+4,Q2309784,sport cyclist,n,someone who competes in the sport of cycling
+4,Q245068,comedian,n,"person who seeks to entertain an audience, primarily by making them laugh"
+4,Q2566598,Christian religious,n,member of a Christian religious institute
+4,Q4144610,alpine skier,n,sportsperson taking part in alpine skiing competitions
+4,Q47064,military personnel,n,member of the armed forces
+4,Q484876,chief executive officer,n,highest-ranking corporate officer or administrator
+4,Q77590,civil engineering,n,engineering discipline that deals with construction
+4,Q1476215,human rights activist,y,"person who, individually or with others, acts to promote or protect some variation of human rights"
+4,Q17167049,literary scholar,y,specialist in study of literature
+4,Q191633,mangaka,y,people who create manga
+4,Q21550489,conceptual artist,y,artist involved with conceptual arts
+4,Q2516866,publisher,y,"person heading a publishing house, normally the owner or founder"
+4,Q3387717,theatre director,y,person overseeing the mounting of a theatre production
+4,Q4263842,literary critic,y,cultural journalist who reviews new literary books
+4,Q4853732,children's writer,y,writer of literature targeted primarily at children
+4,Q635734,archivist,y,"professional who assesses, collects, organizes, preserves, maintains control over, and provides access to information determined to have long-term value"
+3,Q2251335,school teacher,n,teacher that is part of public education
+3,Q2722764,radio personality,n,person who has an on-air position in radio broadcasting
+3,Q11513337,athletics competitor,n,"sportsperson that competes in athletics (track and field, running, walking)"
+3,Q12013238,ophthalmologist,n,professional who practices ophthalmology
+3,Q1413170,bookbinder,n,profession
+3,Q164236,war correspondent,n,journalist specializing in coverage of armed conflicts
+3,Q19643,queen regnant,n,female monarch who rules a country in her own right
+3,Q2919046,biochemist,n,scientist specialized in biochemistry
+3,Q512314,socialite,n,person of prominence with a high social position in upper class society
+3,Q947873,television presenter,n,person who introduces or hosts television programs
+3,Q18844224,science fiction writer,y,a person who writes works of science fiction
+3,Q22343478,collagist,y,visual artist who creates collages
+3,Q2519376,jewellery designer,y,one who creates jewellery or designs for its manufacture
+3,Q4220892,film critic,y,"journalist, who is dealing with films"
+3,Q6138343,wood carver,y,wood worker who carves
+3,Q805221,ballet dancer,y,person who practices the art of ballet
+3,Q855091,guitarist,y,person who plays the guitar
+3,Q998628,illuminator,y,"artist who ""illuminates"" books and manuscripts"
+2,Q1569495,academic lecturer,n,tenure-track or tenured position at a university or similar institution
+2,Q28004591,professeur des universités,n,"type of position in french university, that gives the ""professor"" title"
+2,Q5669847,assistant professor,n,introductory level professor
+2,Q662729,public figure,n,legal concept
+2,Q974144,educator,n,"occupation which teaches others knowledge, skills, and habits"
+2,Q10729326,pirate,n,person practicing piracy
+2,Q1093536,location manager,n,person responsible for locations where a movie is shot
+2,Q12020057,homeopath,n,person who applies homeopathic therapies
+2,Q12097,king,n,class of male monarch
+2,Q1238570,political scientist,n,occupation
+2,Q125482,imam,n,Islamic leadership position
+2,Q131512,farmer,n,person that undertakes agriculture
+2,Q13382355,archer,n,sportsperson taking part in archery competitions
+2,Q13382460,marathon runner,n,sportsperson taking part in a marathon
+2,Q157146,French Resistance,n,collection of French resistance movements that fought against the Nazi German occupation of France and against the collaborationist Vichy rgime
+2,Q15839134,ecologist,n,person who works in the scientific field of ecology
+2,Q158668,private,n,soldier of the lowest military rank
+2,Q15983985,classical archaeologist,n,Archaeologist in the field of the graeco-roman antiquity
+2,Q17375135,oenologist,n,oenology expert
+2,Q185196,midwife,n,medical professional who practices obstetrics as a health science
+2,Q18814623,autobiographer,n,person who wrote their autobiography
+2,Q191808,nun,n,member of a religious community of women
+2,Q193391,diplomat,n,person appointed by a state to conduct diplomacy with another state or international organization
+2,Q1934684,housewife,n,woman whose main occupation is running or managing the family's home
+2,Q19937286,worker,n,worker in manual-labour occupations and industrial work
+2,Q20972719,aeronautical engineer,n,profession
+2,Q2114605,pharmacologist,n,
+2,Q21507004,sex educator,n,
+2,Q2388514,Intelligence analysis,n,
+2,Q267114,social media marketing,n,use of social media platforms and websites to promote a product or service
+2,Q2961975,business executive,n,"person responsible for running an organization, or an aspect of it"
+2,Q30185,mayor,n,head of municipal government such as a town or city
+2,Q3055126,entomologist,n,scientist specialising in entomology
+2,Q3140857,horticulturist,n,"person who works and conducts research in the science and art of growing flowers, fruits, vegetables or ornamental plants"
+2,Q329455,justice of the peace,n,"judicial officer, of a lower or puisne court, elected or appointed by means of a commission (letters patent) to keep the peace"
+2,Q3427922,restaurateur,n,person who opens and runs restaurants professionally
+2,Q3779582,microbiologist,n,person who investigates the characteristics of microscopic organisms
+2,Q3877594,Nobile,n,Italian title of nobility
+2,Q488111,pornographic actor,n,person who performs sex acts in pornographic films
+2,Q4991371,soldier,n,one who fights as part of an organized armed force
+2,Q625369,mistress,n,"female who is in a sexual relationship, where the other or both parties to the relationship are also in another committed relationship (usually marriage)"
+2,Q6498903,supervillain,n,"variant of the villain character type possessing ""supernatural or superhuman powers"""
+2,Q7019111,social worker,n,person who performs social work
+2,Q719039,queen consort,n,wife of a reigning king
+2,Q80687,secretary,n,occupation
+2,Q838811,peasant,n,member of a traditional class of farmers
+2,Q10798782,television actor,y,actor who performs on television
+2,Q1086863,columnist,y,"someone who writes for publication in a series, creating an article that usually offers commentary and opinions"
+2,Q1111648,comic book colorist,y,responsible for adding color to black-and-white line art
+2,Q12271,architecture,y,"both the process and product of planning, designing and construction"
+2,Q1294787,artisan,y,skilled craft worker who makes or creates things by hand
+2,Q16010345,performer,y,"artists who participate in performing arts in front of an audience: actors, comedians, dancers, magicians, circus artists, musicians, singers"
+2,Q16145150,music pedagogue,y,profession and academic title
+2,Q17378128,spoken word artist,y,
+2,Q173950,art dealer,y,person that buys and sells works of art
+2,Q17486326,architectural historian,y,humanist who is engaged in history of architecture
+2,Q20771242,gallerist,y,owner of a gallery
+2,Q21178131,portraitist,y,a person who makes portraits
+2,Q222344,cinematographer,y,chief over the camera and lighting crews working on a film
+2,Q22812879,digital artist,y,artist who works in the digital medium
+2,Q266569,animator,y,person who makes animated films
+2,Q2865819,opera singer,y,singer who sings in operas
+2,Q29583,fashion design,y,art of the application of design and aesthetics to clothing and accessories
+2,Q3242115,revolutionary,y,"person who either actively participates in, or advocates revolution"
+2,Q3282637,film producer,y,"person who supervises the overall process, creative and financial, of making a film"
+2,Q3658608,caricaturist,y,artist who draws comical portraits
+2,Q3766177,videographer,y,person who works in the field of videography
+2,Q462390,docent,y,person who teaches at universities and educational institutions
+2,Q5436767,fashion editor,y,"person who supervises the process of creating, developing and presenting content for the fashion department of a magazine, Web site, newspaper or television program"
+2,Q5697103,antiquarian,y,aficionado of antiquities or things of the past
+2,Q578109,television producer,y,occupation within video production for TV
+2,Q753110,songwriter,y,person who writes the lyrics and melody for a music art piece
+2,Q838566,metalsmith,y,craftsman fashioning tools or works of art out of various metals
+2,Q5758653,,,teaching post
+1,Q17489339,historian of the modern age,n,person who studies modern history
+1,Q10872101,anatomist,n,scientist with a specialty in anatomy
+1,Q1097498,ruler,n,person who reigns over a certain region or country
+1,Q11631,astronaut,n,"person who commands, pilots, or serves as a crew member of a spacecraft"
+1,Q12328016,mystic,n,occupation
+1,Q13381572,artistic gymnast,n,sportsperson who takes part in artistic gymnastics competitions
+1,Q13381753,middle-distance runner,n,sportsperson taking part in running competitions over distances of at least 800 metres up to 3000 metres
+1,Q1371378,ethnologist,n,profession
+1,Q140686,chairperson,n,"highest officer of an organized group such as a board, a committee, or a deliberative assembly"
+1,Q1459149,schoolmaster,n,obsolete term for a male school teacher
+1,Q15319501,social scientist,n,academic working in the field of social sciences
+1,Q15895020,aerospace engineer,n,engineering profession
+1,Q16742096,nuclear scientist,n,
+1,Q168559,political commissar,n,profession
+1,Q185351,jurist,n,"legal scholar or academic, a professional who studies, teaches, and develops law"
+1,Q18574233,darts player,n,
+1,Q18617021,freestyle skier,n,sportsperson taking part in freestyle skiing competitions
+1,Q19507792,scientific illustrator,n,
+1,Q19757114,floriculturist,n,
+1,Q19829990,biblical scholar,n,expert on biblical studies
+1,Q21500306,innkeeper,n,occupation
+1,Q215536,merchant,n,businessperson who trades in commodities that were produced by others
+1,Q23045969,sharecropper,n,occupation
+1,Q28146366,nun,n,
+1,Q2986228,sports commentator,n,sports broadcaster who comments a live event
+1,Q3075052,folklorist,n,person who studies folklore
+1,Q3264451,cardiologist,n,physician who specializes in cardiology
+1,Q350979,zoologist,n,someone who studies or practices zoology
+1,Q3546255,oceanographer,n,
+1,Q3578589,environmentalist,n,someone who supports the goals of the environmental movement
+1,Q3745071,science writer,n,profession in writing
+1,Q414528,academician,n,"Full Member of an art, literary, or scientific academy"
+1,Q4182927,stockbroker,n,professional  who buys and sells shares and other securities for both retail and institutional clients
+1,Q4205432,ichthyologist,n,fish scientist
+1,Q4379701,pro gamer,n,occupation
+1,Q520549,geologist,n,scientist who studies geology
+1,Q5482740,programmer,n,person who writes computer software
+1,Q549322,torero,n,bullfighter and the main performer in bullfighting
+1,Q589298,editor-in-chief,n,publication's editorial leader
+1,Q620413,paralegal,n,paraprofessional who assists qualified lawyers in their legal work
+1,Q6337803,neuroscientist,n,individual who studies neuroscience
+1,Q6806548,medical illustration,n,
+1,Q715222,lady-in-waiting,n,"female personal assistant at a court, royal or feudal, attending on a queen, a princess, or a high-ranking noblewoman"
+1,Q865851,supermodel,n,profession
+1,Q931260,murderer,n,criminal
+1,Q935666,make-up artist,n,artist whose medium is the human body
+1,Q1021386,civil rights advocate,y,occupation
+1,Q10862983,etcher,y,"artist who practices the ""art of etching"""
+1,Q125191,photograph,y,image created by light falling on a light-sensitive surface
+1,Q1350157,music critic,y,profession
+1,Q15212951,cineast,y,an enthusiast of film and the cinema
+1,Q15472169,patron,y,person who engages in patronage
+1,Q15977927,art educator,y,educator focused on the arts
+1,Q15981151,jazz musician,y,musician who plays jazz
+1,Q16323111,peace activist,y,
+1,Q183945,record producer,y,individual who oversees and manages the recording of an artist's music
+1,Q18575684,embroiderer,y,needlework and textile artist
+1,Q18882335,video game designer,y,person or company responsible for design of the content and rules of a video game
+1,Q19251029,media critic,y,critic of media in multiple formats
+1,Q2000124,postage stamp designer,y,person who designs postage stamps
+1,Q20669622,music journalist,y,occupation
+1,Q22132694,museum director,y,executive in charge of a museum
+1,Q25866,community organizing,y,process where people who live in proximity to each other come together into an organization that acts in their shared self-interest
+1,Q28813302,clean-up artist,y,animation role
+1,Q30903,soprano,y,"type of classical female singing voice, highest vocal range of all voice types"
+1,Q3303330,calligrapher,y,artist who write phrases or texts according to the art of calligraphy
+1,Q337084,drag queen,y,man who dresses and acts with exaggerated femininity for performance purposes
+1,Q8359428,social activist,y,activist focused on social issues
+27957,Q16533,judge,n,official who presides over court proceedings
+26822,Q3665646,basketball player,n,sportsperson taking part in basketball competitions
+14563,Q10873124,chess player,N,individual who takes part in chess tournaments
+13266,Q1234713,theologian,n,person who studies theology
+11726,Q15117302,volleyball player,n,sportsperson who plays volleyball
+11308,Q10843402,swimmer,n,sportsperson taking part in swimming competitions
+11271,Q11338576,boxer,N,sportsperson taking part in boxing competitions
+8712,Q2405480,voice actor,y,"person who provides voice-overs for a character in films, animation, video games or in other media"
+8311,Q10833314,tennis player,n,sportsperson who plays tennis
+6834,Q806798,banker,N,person who works in banking
+4665,Q11900058,explorer,N,person who by means of travel searches out new information
+4456,Q13381863,fencer,N,sportsperson taking part in fencing competitions
+4360,Q822146,lyricist,y,writer who specializes in writing song lyrics
+3464,Q219477,missionary,n,member of a religious group sent into an area to do evangelism
+3367,Q864380,biographer,N,person who creates biographies
+3167,Q13418253,philologist,n,person who practices philology
+3032,Q1662561,paleontologist,n,scientist specialising in paleontology
+2982,Q765778,organist,y,musician who plays any type of organ
+2884,Q17486376,sport shooter,n,person who does sport shooting
+2123,Q205375,inventor,n,"person that devises a new device, method, composition, or process"
+2008,Q599151,official,n,someone who holds an office
+1645,Q2468727,classical scholar,N,"person who studies classics, the culture of (mainly) Ancient Greece and Ancient Rome"
+1602,Q18805,naturalist,n,"person who studies and knows a lot about plants animals and natural history (esp in the field); person who writes, paints, etc. in the style of naturalism (in art and literature);"
+1538,Q9149093,mountaineer,n,person who climbs mountains
+1526,Q2640827,gynaecologist,n,physician who specialized in gynecology
+1400,Q202883,veterinarian,n,"professional who treats disease, disorder, and injury in non-human animals"
+1285,Q13382533,taekwondo athlete,n,sportsperson taking part in taekwondo competitions
+1261,Q4594605,magistrate,n,"officer of the state, usually judge"
+1146,Q806349,bandleader,Y,leader of a band of musicians
+1027,Q1323191,costume designer,Y,person who designs costumes
+940,Q13219637,cellist,Y,cello player
+848,Q2500638,creator,Y,person who does creative work
+846,Q2478141,aristocrat,N,class of people who either possess hereditary titles granted by a monarch or are related to such people
+838,Q16278103,squash player,n,person who plays squash
+833,Q12362622,philanthropist,n,person known for philanthropic work
+726,Q17125263,YouTuber,y,person that produces YouTube videos
+672,Q752129,astrophysicist,n,person who is occupied in astrophysics
+640,Q18939491,diarist,N,person who writes a personal journal
+627,Q16744001,noble,n,member of the nobility
+596,Q118865,clarinetist,Y,person who plays the clarinet
+561,Q42909,reporter,n,journalist who collects and reports information on an event
+552,Q706364,art director,y,responsible for leading teams in the artistic design and production of various kinds of visual art works
+501,Q600751,prosecutor,n,supreme representative of the prosecution (of the state)
+463,Q3410028,psychoanalyst,n,psychiatrist or psychotherapist who specializes in psychoanalysis
+459,Q1162163,director,Y,in business or institutions person in charge of realizing an objective
+452,Q1919436,pediatrician,n,physician with medical specialty pediatrics
+423,Q1906857,mechanical engineer,n,profession
+397,Q18545066,stand-up comedian,y,comedian of stand-up comedy
+383,Q15982858,motivational speaker,n,profession
+360,Q15839206,molecular biologist,n,profession
+351,Q3640160,marine biologist,n,scientist specialising in marine biology
+274,Q3951423,rock climber,n,person who practices rock climbing
+256,Q739437,poster artist,y,person who designs poster
+242,Q7622988,street artist,y,"artist performing in public places, for gratuities"
+225,Q9385011,neurosurgeon,n,surgical discipline; profession
+216,Q12902372,flautist,Y,musician playing the flute
+216,Q2576499,nutritionist,n,person who advises on matters of food and nutrition impacts on health
+207,Q2216340,silversmith,y,craftsman who makes objects from silver or gold
+185,Q1639825,blacksmith,Y,"person who creates wrought iron or steel products by forging, hammering, bending, and cutting"
+166,Q12051314,seismologist,n,scientist who does research in seismology
+161,Q7888586,chemical engineer,N,professional in the field of chemical engineering
+146,Q18926350,agricultural engineer,n,"employees or officials at a university or a research institute, which do research"
+126,Q16063546,historian of science,n,humanist who is engaged in history of science
+120,Q2505739,hispanist,n,scholar specialising in Hispanic studies
+112,Q2540173,hotel manager,n,person managing a hotel
+98,Q854979,bhikkhuni,N,ordained female Buddhist monastic
+97,Q1255921,president,n,"non-political leader of an organization, company, community, club, trade union, university or other group"
+88,Q3178518,vedette,n,"female entertainers with multiple talents for singing, dancing, or acting"
+81,Q623268,chief financial officer,N,corporate title
+80,Q226008,Japanese idol,n,owner and overseer of the operation of plantations
+79,Q1709010,software engineer,n,practitioner of software engineering
+77,Q25339110,professor,Y,highest academic rank at universities (i.e. full professor)
+74,Q4845479,grand couturier,n,fashion designer who is a member of the French Chambre syndicale de la haute couture
+66,Q15977949,furniture designer,y,one who creates furniture or designs for its manufacture
+59,Q21281706,academic administrator,Y,profession
+56,Q2267418,industrial engineer,n,profession
+47,Q1251441,leader,n,someone with the authority to affect the conduct of others
+42,Q8175949,media historian,y,humanist who is engaged in history of media
+33,Q1416279,financial analyst,N,person who performs financial analysis
+31,Q863048,princess,n,title of nobility
+21,Q11762416,speech and language therapist,n,profession
+14,Q162244,hero,n,person who displays characteristics of heroism
+14,Q28819457,humanist,n,occupation
+14,Q3133901,herbalist,n,occupation
+13,Q390479,master of novices,n,governor and trainer of the novitiate of a Roman Catholic religious institute
+11,Q18930007,political philosopher,n,ancient Greek artists
+10,Q17391605,film theorist,Y,occupation
+9,Q22343406,media artist,y,artist who  works with media
+8,Q547457,curandero,N,craft
+7,Q21849766,heiress,n,female beneficiary of an inheritance (in the context of the historical practices of the nobility)
+5,Q21002290,environmental engineer,N,profession
+1,Q15841889,computer engineering,N,Wikimedia disambiguation page
+1,Q26700386,Doula in East Slavic,N,political position in Spain
